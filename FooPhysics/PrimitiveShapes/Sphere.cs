@@ -46,27 +46,7 @@ namespace FooPhysics
 
         }
 
-        //full parameterized specification for sphere 
-        public Sphere(double radius, object _unit)
-        {
-            if (radius <= 0)
-                throw new ArgumentException("Radius must be greater than 0");
-
-            if (IsImperialLengthUnit(_unit) || IsMetricLengthUnit(_unit))
-            {
-                // Store radius
-                this.radius = radius;
-
-                unitLength = (Units)_unit;
-            }
-            else
-            {
-                throw new ArgumentException("Measurement Unit must be of length");
-            }
-            
-            
-            
-        }
+        
 
         //full parameterized specification for sphere 
         public Sphere(double _radius, object _unitLength, double _mass ,object _unitMass, double _temp, object _unitTemp)
