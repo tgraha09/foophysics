@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooPhysics", "FooPhysics\FooPhysics.csproj", "{99A852F8-E880-4322-BE35-A7758CC38A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{FD0A597F-D2C9-42EC-8E22-7C2180E9ED39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A852F8-E880-4322-BE35-A7758CC38A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A852F8-E880-4322-BE35-A7758CC38A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A852F8-E880-4322-BE35-A7758CC38A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A852F8-E880-4322-BE35-A7758CC38A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0A597F-D2C9-42EC-8E22-7C2180E9ED39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0A597F-D2C9-42EC-8E22-7C2180E9ED39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0A597F-D2C9-42EC-8E22-7C2180E9ED39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0A597F-D2C9-42EC-8E22-7C2180E9ED39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D16BD4-351F-4E85-82D9-311C065B9D32}
+	EndGlobalSection
+EndGlobal

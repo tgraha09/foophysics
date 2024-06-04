@@ -1,0 +1,11 @@
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\bin\Debug\net8.0\FooPhysics.deps.json
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\bin\Debug\net8.0\FooPhysics.dll
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\bin\Debug\net8.0\FooPhysics.pdb
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\obj\Debug\net8.0\FooPhysics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\obj\Debug\net8.0\FooPhysics.AssemblyInfoInputs.cache
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\obj\Debug\net8.0\FooPhysics.AssemblyInfo.cs
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\obj\Debug\net8.0\FooPhysics.csproj.CoreCompileInputs.cache
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\obj\Debug\net8.0\FooPhysics.dll
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\obj\Debug\net8.0\refint\FooPhysics.dll
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\obj\Debug\net8.0\FooPhysics.pdb
+C:\Users\tfire\OneDrive\Documents\Projects\C#\FooPhysics\FooPhysics\obj\Debug\net8.0\ref\FooPhysics.dll
