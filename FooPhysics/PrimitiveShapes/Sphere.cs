@@ -14,13 +14,15 @@ namespace FooPhysics
 {
     public class Sphere : GeometricPrimitives
     {
-        //privbate 
+        //private 
         private double radius;
 
         private double mass;
 
         private double temperature;
-        
+
+
+        //enum for units
         private Units unitLength;
 
         private Units unitMass;
@@ -57,11 +59,12 @@ namespace FooPhysics
             if (_mass <= 0)
                 throw new ArgumentException("Mass must be greater than 0");
 
+            //check if units are valid
             if ((IsImperialLengthUnit(_unitLength) || IsMetricLengthUnit(_unitLength))
                 && ((IsImperialMassUnit(_unitMass) || IsMetricMassUnit(_unitMass)))
                 && ((IsImperialTemperatureUnit(_unitTemp) || IsMetricTemperatureUnit(_unitTemp))))
             {
-                // Store radius
+                // private variables
                 this.radius = _radius;
                 unitLength = (Units)_unitLength;
 
